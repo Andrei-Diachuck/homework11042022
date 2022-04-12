@@ -4,6 +4,7 @@ public class Main {
         checkSumSign();
         printColor();
         compareNumbers();
+
     }
 
     public static void printThreeWords(){
